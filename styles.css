@@ -8,6 +8,9 @@ body {
 }
 
 header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
     background: #0096FF; /*Blue*/
     color: #fff;
     padding: 1rem 0;
@@ -20,6 +23,10 @@ header h1 {
 
 header p {
     margin: 0.5rem 0 0;
+}
+header img {
+    max-width: 100px; /* Adjust size as needed */
+    border-radius: 50%; /* Optional: to make the image round */
 }
 
 section {
