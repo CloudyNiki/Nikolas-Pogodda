@@ -41,8 +41,8 @@ header p {
 }
 
 .contact-image img {
-    max-width: 100px; /* Adjust the size as needed */
-    border-radius: 50%; /* Optional: to make the image round */
+    max-width: 150px; /* Adjust the size as needed */
+    /*border-radius: 50%; /* Optional: to make the image round */
     margin-left: 20px;
 }
 
