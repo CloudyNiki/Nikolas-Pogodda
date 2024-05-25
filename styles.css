@@ -45,12 +45,12 @@ header p {
     margin-left: 20px;
 }
 
-/* section {
+section {
     padding: 1rem 2rem;
     margin: 1rem auto;
     background: #fff;
     max-width: 800px;
-    box-shadow: 0 0 10px rgba(0,0,0,0.1); */
+    box-shadow: 0 0 10px rgba(0,0,0,0.1);
 }
 
 h2 {
