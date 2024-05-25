@@ -53,3 +53,20 @@ footer {
     background: #0096FF; /*Blue*/
     color: #fff;
 }
+.contact-info {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.contact-details {
+    flex: 1;
+}
+
+.contact-image {
+    flex: 0 0 150px; /* Adjust the width as needed */
+}
+
+.contact-image img {
+    max-width: 100%; /* Make sure the image fits within its container */
+    border-radius: 50%; /* Optional: to make the image round */
